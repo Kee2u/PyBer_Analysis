@@ -16,6 +16,8 @@ Here is a line graph of the total fare by city type. As you can see urban areas 
 ## Summary
 Here are some business recommendations to address disparities among the city types.
  1. Since the fares per ride amounts are closer to each other than the fares per driver amounts, we can conclude that this is caused by the number of drivers relative to the number of rides. This discrepancy is caused by a lot of urban drivers and few rural drivers available for a certain amount of rides. Let us assume that drivers get paid proportionally to the "Average Fare per Driver". In order to standardize wages, the company can change their hiring strategy. For example, they can hire more drivers for rural regions and less drivers for urban cities. 
+ 
  2. The differences in drivers available for a certain amount of rides could also imply that rural drivers are more overworked than urban drivers. If this is the case, the company should hire more rural drivers and less urban drivers. They can also transfer urban drivers to operate in rural regions.
+ 
  2. It is unclear here if the discrepancy in "Average Fare per Ride" is due to differences in distance. If it is not and if urban, suburban and rural rides are comparable, the "Average Fare per ride" should be standardized.
  
